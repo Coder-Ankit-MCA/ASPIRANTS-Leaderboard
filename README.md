@@ -160,7 +160,7 @@ JWT_SECRET=your_secret_key
 
 ```bash
 git clone https://github.com/Coder-Ankit-MCA/ASPIRANTS-Leaderboard.git
-cd aspirants-leaderboard
+cd ASPIRANTS-Leaderboard
 ```
 ### 2️⃣ Backend Setup
 ```bash
