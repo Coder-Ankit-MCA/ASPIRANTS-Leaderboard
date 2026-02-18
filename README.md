@@ -187,6 +187,7 @@ Open:
 frontend/index.html
 ```
 Or use Live Server.
+
 ---
 
 ## 🔐 Default Admin Credentials
